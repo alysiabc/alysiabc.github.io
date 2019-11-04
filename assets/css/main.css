@@ -921,7 +921,7 @@
 		opacity: 0.95;
 		position: relative;
 		text-align: center;
-		width: 27em;
+		width: 80em;  /* Controls the width of the white box; default: 27em  */
 	}
 
 		#main .avatar {
